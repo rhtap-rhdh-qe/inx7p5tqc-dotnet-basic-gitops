@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: inx7p5tqc-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/inx7p5tqc-dotnet-basic-gitops
